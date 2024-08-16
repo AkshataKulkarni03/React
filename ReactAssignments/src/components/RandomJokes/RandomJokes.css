@@ -1,0 +1,19 @@
+
+
+.logo {
+    height: 80px;
+    width: 80px;
+    background-image: url("unnamed.webp");
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    bottom: 10px; 
+    right: 10px;
+    cursor: pointer;
+}
+
+.post{
+    position: relative;
+    right:235px;
+    bottom:115px;
+}
